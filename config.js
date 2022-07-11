@@ -41,31 +41,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://vt.tiktok.com/ZSdoWvkwf/'
+global.sig = '-'
 global.sgh = 'https://github.com/zero-zez'
-global.sgc = 'https://chat.whatsapp.com/D05rhi0ELaOCPrEVq9qLf9'
-global.sdc = 'https://wa.me/+6283178502766'
+global.sgc = 'https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd'
+global.sdc = 'https://wa.me/+6283183321692'
 global.snh = 'https://youtube.com/channel/UCJ-AJ4DAfOL75-jpJi3m2ow'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083178502766'
+global.pdana = '083183321692'
 global.povo = '-CLOSE-'
-global.pgopay = '085161732766'
+global.pgopay = '083183321692'
 global.pqris = 'Redy'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '1(873)7302363'
-global.nomorown = '6283178502766'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zerobotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ Zeroঔৣ꧂'
+global.nomorbot = '62895386445819'
+global.nomorown = '6283183321692'
+global.namebot = '⳹ ❋ཻུ۪۪⸙BOT-MD⳹ ❋ཻུ۪۪'
+global.nameown = 'ᴹᴿ᭄ Owner BOTঔৣ꧂'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283178502766'],
-  ['6283178502766'],
-  ['6283178502766'],
-  ['6283178502766', 'Zero', true]
+  ['6283183321692'],
+  ['6283183321692'],
+  ['6283183321692'],
+  ['6283183321692', 'BOT-MD', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -110,13 +110,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zerobotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zerobotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zerobotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '⳹ ❋ཻུ۪۪⸙BOT-MD⳹ ❋ཻུ۪۪' //Main Watermark
+global.wm2 = '⳹ ❋ཻུ۪۪⸙BOT-MD⳹ ❋ཻུ۪۪'
+global.wm3 = '⳹ ❋ཻུ۪۪⸙BOT-MD⳹ ❋ཻུ۪۪'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ZERO ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ BOT - MD ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/

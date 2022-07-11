@@ -145,15 +145,15 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
     let waofc = `@${'0'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
- let ow = `@${'6283174508962'.split('@')[0]}`
+ let ow = `@${'6283183321692'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
- let nurt = `@${'6281334177340'.split('@')[0]}`
+ let nurt = `@${'6283183321692'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
- let mds = `@${'62895336282144'.split('@')[0]}`
+ let mds = `@${'6283183321692'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
  let mds2 = `@${'62887435047326'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
- let admn = `@${'6285704954639'.split('@')[0]}`
+ let admn = `@${'62895386445819'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
   let par = `@${'6288217277973'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
@@ -170,7 +170,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
  
  /**************************** TIME *********************/
  let wib = moment.tz('Asia/Jakarta').format('HH:mm:ss')
-    let wibh = moment.tz('Asia/Jakarta').format('HH')
+    let wibh = moment.tz('Asia/Medan').format('HH')
     let wibm = moment.tz('Asia/Jakarta').format('mm')
     let wibs = moment.tz('Asia/Jakarta').format('ss')
     let wit = moment.tz('Asia/Jayapura').format('HH:mm:ss')

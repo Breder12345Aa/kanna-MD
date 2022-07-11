@@ -45,7 +45,7 @@ global.sig = '-'
 global.sgh = 'https://github.com/zero-zez'
 global.sgc = 'https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd'
 global.sdc = 'https://wa.me/+6283183321692'
-global.snh = 'https://youtube.com/channel/UCJ-AJ4DAfOL75-jpJi3m2ow'
+global.snh = '📮🔥📮'
 
 /*============== PAYMENT ==============*/
 global.pdana = '083183321692'

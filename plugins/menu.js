@@ -170,7 +170,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
  
  /**************************** TIME *********************/
  let wib = moment.tz('Asia/Jakarta').format('HH:mm:ss')
-    let wibh = moment.tz('Asia/Medan').format('HH')
+    let wibh = moment.tz('Asia/Jakarta').format('HH')
     let wibm = moment.tz('Asia/Jakarta').format('mm')
     let wibs = moment.tz('Asia/Jakarta').format('ss')
     let wit = moment.tz('Asia/Jayapura').format('HH:mm:ss')

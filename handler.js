@@ -757,7 +757,7 @@ global.dfail = (type, m, conn) => {
     	unreg: 'Halo kak ! 👋\nAnda belum terdaftar didalam Database BOT 🗂️\n\nKlick Tombol dibawah Untuk Mendaftar Ke Database BOT !'
 }[type]
 if (msgg) return conn.sendHydrated(m.chat, msgg, global.wm, null, global.sgc, '🌎 Join My Group Official', `${m.sender.split`@`[0]}`, '🌹 U S E R', [
-      ['▣ VERIFY ▣', '/daftar'],
+      ['📮 VERIFY 📮', '/daftar'],
       [null,null],
       [null, null]
     ], m)
